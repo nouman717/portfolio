@@ -68,17 +68,6 @@
                 "altText": ""
             },
             {
-                "type": "Button",
-                "label": "Learn more",
-                "altText": "",
-                "url": "https://github.com/nouman717/nouman717",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": ""
-            },
-            {
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
