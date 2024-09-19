@@ -16,7 +16,15 @@ sections:
     title: >-
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
-    subtitle: "Senior Dotnet Developer Utilizing my extensive 6.5years in the software development industry, I havegarnered substantial expertise in C# .Net, MVC, andRESTful web API technologies. My experienceincludes successfully architecting and deployingcutting-edge cloud- based and web-basedapplications across a wide spectrum of industries. Ihave demonstrated my proficiency in deliveringinnovative solutions for government, recruitment,insurance, retail, banking, and advertising sectors,ensuring that each application aligns with industry\x02specific requirements and cutting-edge technologicaladvancements., recruitment, insurance, retail,banking, and advertising."
+    subtitle: >-
+      Senior .NET Developer with over 6.5 years of experience in the software
+      development industry. I have gained substantial expertise in C#, .NET,
+      MVC, and RESTful web API technologies. My background includes successfully
+      architecting and deploying cutting-edge cloud-based and web-based
+      applications across various industries, including government, recruitment,
+      insurance, retail, banking, and advertising. I have a strong track record
+      of delivering innovative solutions that meet industry-specific
+      requirements and leverage the latest technological advancements.
     styles:
       self:
         height: auto
