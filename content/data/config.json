@@ -73,7 +73,8 @@
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/nouman717/nouman717",
-                "altText": "nouman"
+                "altText": "nouman",
+                "icon": "github"
             }
         ],
         "contacts": {
