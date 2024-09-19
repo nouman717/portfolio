@@ -45,7 +45,7 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
         fontWeight: 500
       text:
         textAlign: left
