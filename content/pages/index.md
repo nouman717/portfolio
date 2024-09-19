@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a .NET developer, solution architect, consultant, passionate for
+      I’m a .NET developer, solution architect, consultant, and passionate for
       building innovative, scalable applications.
     subtitle: >-
       Senior .NET Developer with over 6.5 years of experience in the software
