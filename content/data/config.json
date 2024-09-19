@@ -57,7 +57,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "",
                 "url": "mailto:arifnoman717@gmail.com",
                 "altText": "",
                 "icon": "mail",
