@@ -65,7 +65,8 @@
                 "type": "Link",
                 "label": "Linkedin",
                 "url": "https://www.linkedin.com/in/nouman-a-net/",
-                "altText": "Linkedin"
+                "altText": "Linkedin",
+                "showIcon": true
             },
             {
                 "type": "Link",
