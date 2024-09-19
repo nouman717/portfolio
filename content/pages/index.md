@@ -14,8 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a .NET developer, solution architect, consultant, and a few other
+      impressive roles that highlight my passion for building innovative,
+      scalable applications.
     subtitle: >-
       Senior .NET Developer with over 6.5 years of experience in the software
       development industry. I have gained substantial expertise in C#, .NET,
