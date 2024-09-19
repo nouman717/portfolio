@@ -14,9 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a .NET developer, solution architect, consultant, and a few other
-      impressive roles that highlight my passion for building innovative,
-      scalable applications.
+      I’m a .NET developer, solution architect, consultant, passionate for
+      building innovative, scalable applications.
     subtitle: >-
       Senior .NET Developer with over 6.5 years of experience in the software
       development industry. I have gained substantial expertise in C#, .NET,
